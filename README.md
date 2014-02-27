@@ -1,7 +1,7 @@
 php-playground
 ==============
 
-A collection of randomness that I write in PHP. This repository may or may not exist at [http://dev.andrewjkerr.com/php-playground](http://dev.andrewjkerr.com/php-playground]).
+A collection of randomness that I write in PHP. This repository may or may not exist at [http://dev.andrewjkerr.com/php-playground](http://dev.andrewjkerr.com/php-playground).
 
 Current Directories
 -------------------
