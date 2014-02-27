@@ -29,10 +29,12 @@
 			</tr>
 		</table>
 		<span style="text-align: center">
-			<p>Hmm, file listing... using the backtick.</p>
 			<?php
+				/*
+				echo '<p>Hmm, file listing... using the backtick.</p>';
 				$out = `ls -al`;
 				echo '<p>' . $out . '</pre>';
+				*/
 			?>
 		</span>
 	</body>
