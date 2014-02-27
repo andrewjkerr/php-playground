@@ -28,5 +28,12 @@
 				<td align="center"><?php echo $_POST['widgetqty'] + $_POST['widget2qty']; ?>
 			</tr>
 		</table>
+		<span style="text-align: center">
+			<p>Hmm, file listing... using the backtick.</p>
+			<?php
+				$out = `ls -al`;
+				echo '<p>' . $out . '</pre>';
+			?>
+		</span>
 	</body>
 </html>
